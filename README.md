@@ -3,13 +3,13 @@
 <h1 style="margin-bottom: -1rem">
 Luuk Kablan
 <a href="https://www.linkedin.com/in/luuk-kablan/">
-<img src="https://github.com/LuckyLuuk12/LuckyLuuk12/tree/main/imglinkedin.png" alt="LinkedIn">
+<img src="https://github.com/LuckyLuuk12/LuckyLuuk12/tree/main/img/linkedin.png" alt="LinkedIn">
 </a>
 </h1>
 <h4>
 Full-Stack Developer
 <a href="https://discord.com/users/463695638094282772">
-<img src="https://github.com/LuckyLuuk12/LuckyLuuk12/tree/main/imgdiscord.png" alt="Discord">
+<img src="https://github.com/LuckyLuuk12/LuckyLuuk12/tree/main/img/discord.png" alt="Discord">
 </a>
 </h4>
 
