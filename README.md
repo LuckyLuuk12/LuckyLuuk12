@@ -120,7 +120,7 @@
 <br>
 <br>
 <!-- blurple-ish line: -->
-<hr style="background: #1b1b2f; border: none; height: 1px; margin: 2rem 0;">
+<hr style="background-color: #1b1b2f; border: none; height: 1px; margin: 2rem 0;">
 <br>
 
 <p align="center">
