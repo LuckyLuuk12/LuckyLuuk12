@@ -4,15 +4,21 @@
   <a href="https://luuk.kablan.nl/linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center"><strong style="font-size: 3rem;">Luuk Kablan</strong><br>
+<!-- <p align="center"><strong style="font-size: 3rem;">Luuk Kablan</strong><br>
 <span align="center"><strong style="font-size: 1rem;">Full-Stack Developer • Minecraft Content Developer • University Student</strong></span>
+</p> -->
+<p align="center">
+  <img src="https://luuk.kablan.nl/api/readme/hero.svg?title=Luuk%20Kablan&subtitle=Full-Stack%20Developer%20%E2%80%A2%20Minecraft%20Content%20Developer%20%E2%80%A2%20University%20Student&accent=38bdf8&bgStart=0b1220&bgEnd=111827" alt="Hero">
 </p>
 <!-- blurple-ish line: -->
 <hr style="background: #1b1b2f; border: none; height: 1px; margin: 2rem 0 1rem;">
 <!-- Make sure the about is centered and has margin equally on both sides to look like a small paragraph of text -->
-<p align="center"><strong style="font-size: 2rem;">About</strong></p>
+<!-- <p align="center"><strong style="font-size: 2rem;">About</strong></p>
 <p align="center" style="margin: 0 auto; max-width: 750px;">
   I am a passionate full-stack developer with a strong interest in Minecraft content development. I have experience in various programming languages and frameworks, and I enjoy creating innovative solutions to complex problems. Currently, I am pursuing my studies at the Radboud University of Nijmegen, where I am further honing my skills and expanding my knowledge in the field of software science.
+</p> -->
+<p align="center">
+  <img src="https://luuk.kablan.nl/api/readme/about.svg?" alt="About">
 </p>
 <!-- blurple-ish line: -->
 <hr style="background: #1b1b2f; border: none; height: 1px; margin: 2rem 0;">
