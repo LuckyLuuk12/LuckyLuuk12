@@ -17,22 +17,25 @@
 <!-- blurple-ish line: -->
 <hr style="background: #1b1b2f; border: none; height: 1px; margin: 2rem 0;">
 <br>
-<p align="center"><strong style="font-size: 2rem;">Featured Work</strong></p>
+<!-- <p align="center"><strong style="font-size: 2rem;">Featured Work</strong></p>
 <p><strong>SAC VS Code Extension</strong><br>
 VS Code extension work focused on improved developer experience and tooling.<br>
 <a href="https://github.com/SacBase/vscode"><img src="https://img.shields.io/badge/%40%20SacBase-181717?style=for-the-badge&logo=github&logoColor=white" alt="SAC by SacBase"></a>
 </p>
-
 <p><strong>Kable Launcher</strong><br>
 Heavy utility-focused all-in-one launcher for technical users and power workflows.
 Supports installation and symlink management, advanced logging with copy/search tools,
 skin customization, resource and shader pack management, multi-account support, and world management.<br>
 <a href="https://kable.kablan.nl"><img src="https://img.shields.io/badge/Open%20Project-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Open Kable Launcher"></a>
 </p>
-
 <p><strong>Luukahead</strong><br>
 Custom agile web tool for planning, tracking, and team-friendly execution.<br>
 <a href="https://luukahead.kablan.nl"><img src="https://img.shields.io/badge/Open%20Project-2563eb?style=for-the-badge&logo=trello&logoColor=white" alt="Open Luukahead"></a>
+</p> -->
+<p align="center">
+  <a href="https://github.com/SacBase/vscode"><img src="https://luuk.kablan.nl/api/readme/project1.svg" alt="SAC VS Code Extension"></a>
+  <a href="https://kable.kablan.nl"><img src="https://luuk.kablan.nl/api/readme/project2.svg" alt="Kable Launcher"></a>
+  <a href="https://luukahead.kablan.nl"><img src="https://luuk.kablan.nl/api/readme/project3.svg" alt="Luukahead"></a>
 </p>
 
 <p align="center"><strong style="font-size: 2rem;">Skills</strong></p>
